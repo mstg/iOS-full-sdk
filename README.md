@@ -1,2 +1,1 @@
-# iOS-full-sdk
-iOS sdk with private framework tbds included
+# Moved to [https://github.com/theos/sdks](https://github.com/theos/sdks)
